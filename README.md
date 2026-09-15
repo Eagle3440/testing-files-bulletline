@@ -1,3 +1,6 @@
+Not updated...
+
+
 # Bullet Line: Scripture Pursuit (KJV)
 
 **Bullet Line: Scripture Pursuit** is an engaging, high-speed King James Version (KJV) Bible trivia game built as a self-contained web application. Test your knowledge of the Old and New Testaments, build your silver treasury, and outrun the incoming derailment!
